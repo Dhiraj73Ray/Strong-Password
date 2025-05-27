@@ -1,0 +1,55 @@
+# 📚 Rule 19: Must contain at least one valid Oxford Dictionary word, reversed
+        # (For demo, we use a small sample dictionary)
+
+        # 🤡 Rule 18: Must contain at least one Wingdings font character (🂡🃏✈)
+
+        # 🧂 Rule 17: Must include the name of a kitchen spice (e.g., turmeric, cumin, cinnamon)
+        # 🎯 Rule 16: Must start with a valid dart score (e.g., 180, 60, 100)
+        # 🪐 Rule 15: Must be readable upside down using calculator letters (0,1,6,8,9)
+        # 🧊 Rule 14: Must contain a palindrome word inside (e.g., civic, madam)
+        # 💀 Rule 13: Must NOT include any letters from the word "death"
+        # 📉 Rule 12: ASCII sum of all characters must be divisible by 7
+        # 🔣 Rule 11: Must have at least one non-English Unicode symbol (e.g., Ж, 你, ø)
+        # 🐱 Rule 10: Must contain 1 or 2 letters from the word "meow"
+        # 🎲 Rule 9: Must include a number between 69 and 420 inclusive
+        # 📏 Rule 8: Password length must be a perfect square (4, 9, 16, 25, ...)
+        # 🧠 Rule 7: The first letter must match your mother's maiden name first letter (prompt user)
+        # 🚀 Rule 6: Include the name of a fictional spaceship (e.g., "MillenniumFalcon")
+        # 🐍 Rule 5: Must NOT contain any letters from the word "snake"
+        # 📅 Rule 4: Must contain the current day of the week in reverse (e.g., 'yadirF' for Friday)
+        # 🎼 Rule 3: Include at least one musical note character (♪ ♫ ♬)
+        # 🌍 Rule 2: Must contain the name of a country that doesn’t exist anymore (e.g., Yugoslavia)
+        # ⌚ Rule 1: Password length must match the current hour (24-hour)
+        # Rule 34: Must contain at least one Greek letter (αβγδεζηθλμνξοπρστυφχψω) – assume unicode accepted
+        # Rule 33: Must include one reversed word like 'god', 'desserts', 'live'
+        # Rule 32: Total number of special characters must be odd
+        # Rule 31: Must contain at least one binary digit ('0' or '1')
+        # Rule 30: The first three characters must all be different types (e.g., letter, digit, symbol)
+        # Rule 29: Must contain at least one punctuation mark from (.,;:)
+        # Rule 28: Include at least one lowercase letter from the second half of the alphabet (n-z)
+        # Rule 27: Must not contain any repeating digits
+        # Rule 26: The ASCII sum of all characters must be even
+        # Rule 25: Must contain one mirrored pair (like 'bb', 'cc', etc.)
+        # Rule 24: Must contain at least one hexadecimal character (a-f, A-F)
+        # Rule 23: The middle character must be a letter
+        # Rule 22: Must end with a digit
+        # Rule 21: Cannot contain spaces
+        # Rule 20: At least one character must be repeated exactly 3 times
+        # Rule 19: Total length must be a multiple of 4
+        # Rule 18: Must contain exactly one dash (-)
+        # Rule 17: Must not contain the word "admin"
+        # Rule 16: Must contain at least one digit divisible by 3
+        # Rule 15: Must contain exactly 2 uppercase letters
+        # Rule 14: No two consecutive letters
+        # Rule 13: Must include the word "password"
+        # Rule 12: Include number 90
+        # Rule 11: All alphabet characters must be unique
+        # Rule 10: Contains a palindrome (length ≥ 3)
+        # Rule 9: Must include emoji
+        # Rule 7: Start and end with special character
+        # Rule 6: No vowels
+        # Rule 5: Sum of digits must be a prime number
+        # Rule 4: At least 3 digits
+        # Rule 3: At least one special character
+        # Rule 2: At least one uppercase letter
+        # Rule 1: Minimum 8 characters
