@@ -184,7 +184,6 @@ class StrongPassword(forms.Form):
 
         # 18. total special characters count must be odd
         specials = [c for c in value if not c.isalnum()]
-        print(specials)
         if len(specials) % 2 == 0:
             raise forms.ValidationError("🧮 Total special characters must be an odd number.")
 

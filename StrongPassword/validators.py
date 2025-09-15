@@ -4,6 +4,13 @@ import emoji
 import unicodedata
 import string
 
+# 3️⃣ Gamify it
+
+# Keep a counter of attempts or time spent (optional).
+
+# Give badges or funny titles depending on how many tries it took.
+
+
 class UltraStrongPasswordValidator:
     def __init__(self, mothers_maiden_letter='a'):
         self.mothers_maiden_letter = mothers_maiden_letter.lower()

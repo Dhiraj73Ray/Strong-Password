@@ -7,6 +7,8 @@ def MakePassword(req):
         if Pform.is_valid():
             password = Pform.cleaned_data['password']
             print(f"Password: {password}")
+            return render(req, 'success.html', {'password': password})
     else:
         Pform = StrongPassword()
+
     return render(req, 'makepassword.html', {'form': Pform})
