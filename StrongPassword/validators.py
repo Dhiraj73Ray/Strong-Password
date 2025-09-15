@@ -47,9 +47,9 @@ class UltraStrongPasswordValidator:
         if not self._contains_palindrome(value):
             errors.append("🔁 Password must contain a palindrome (at least 3 characters).")
 
-        letters = [c.lower() for c in value if c.isalpha()]
-        if len(letters) != len(set(letters)):
-            errors.append("🌀 All alphabet letters must be unique, no repeats.")
+        # letters = [c.lower() for c in value if c.isalpha()]
+        # if len(letters) != len(set(letters)):
+        #     errors.append("🌀 All alphabet letters must be unique, no repeats.")
 
         if '90' not in value:
             errors.append("🔢 Include the number '90' (ASCII of Z).")
