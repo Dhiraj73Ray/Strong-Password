@@ -1,5 +1,4 @@
 # 📚 Rule 19: Must contain at least one valid Oxford Dictionary word, reversed
-        # (For demo, we use a small sample dictionary)
 
         # 🤡 Rule 18: Must contain at least one Wingdings font character (🂡🃏✈)
 
